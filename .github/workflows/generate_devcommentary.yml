@@ -4,6 +4,9 @@ on:
   push:
     paths:
       - '_DevCommentary/**.csv'
+  pull_request:
+    paths:
+      - '_DevCommentary/**.csv'
   schedule:
     - cron: '0 0 * * *'
 
@@ -31,6 +34,7 @@ jobs:
         run: |
           git config --global user.email "jukrap628@gmail.com"
           git config --global user.name "jukrap"
+          git checkout -b update-readme
           git add _DevCommentary/README.md
           git commit -m "Update DevCommentary"
-          git push
+          git push origin update-readme

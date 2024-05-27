@@ -18,7 +18,7 @@ weeks = df['week'].unique()
 # README 파일 생성
 with open('_DevCommentary/README.md', 'w') as f:
     for week in weeks:
-        f.write(f'## {week}주차 해설글\n')
+        f.write(f'## {week} 해설글\n')
         
         # 플랫폼별로 그룹화
         platforms = df[df['week'] == week]['platform'].unique()

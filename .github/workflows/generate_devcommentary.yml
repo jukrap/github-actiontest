@@ -34,7 +34,9 @@ jobs:
         run: |
           git config --global user.email "jukrap628@gmail.com"
           git config --global user.name "jukrap"
+          git fetch origin
           git checkout -b update-readme
+          git merge origin/main
           git add _DevCommentary/README.md
           git commit -m "Update DevCommentary"
           git push origin update-readme

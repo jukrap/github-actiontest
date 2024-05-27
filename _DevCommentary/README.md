@@ -1,4 +1,4 @@
-## 3주차주차 해설글
+## 3주차 해설글
 <details>
 <summary>PGS</summary>
 
@@ -7,14 +7,14 @@
 | 42576_완주하지 못한 선수 | [Kaite Park의 해설글](https://blog.com/kaite/42576)<br>[Jane Doe의 해설글](https://blog.com/janedoe/42576)<br>[John Doe의 해설글](https://blog.com/johndoe/42576)<br>[Jacker Lee의 해설글](https://blog.com/jacker/42576)<br>[Hoper Kim의 해설글](https://blog.com/hoper/42576) |
 | 12912_두 정수 사이의 합 | [Kaite Park의 해설글](https://blog.com/kaite/12912)<br>[Jane Doe의 해설글](https://blog.com/janedoe/12912)<br>[John Doe의 해설글](https://blog.com/johndoe/12912)<br>[Jacker Lee의 해설글](https://blog.com/jacker/12912) |
 | 12932_자연수 뒤집어 배열로 만들기 | [Kaite Park의 해설글](https://blog.com/kaite/12932) |
-| 141242_배열로 만들기 | [Kaite Park의 해설글](https://blog.com/kaite/141242) |
+| 1412421_배열로 만들기 | [Kaite Park의 해설글](https://blog.com/kaite/1412421) |
 | 12915_문자열 내 마음대로 정렬하기 | [Jane Doe의 해설글](https://blog.com/janedoe/12915) |
 | 12906_같은 숫자는 싫어 | [John Doe의 해설글](https://blog.com/johndoe/12906)<br>[Hoper Kim의 해설글](https://blog.com/hoper/12906) |
 | 12930_이상한 문자 만들기 | [Jacker Lee의 해설글](https://blog.com/jacker/12930) |
 
 </details>
 
-## 1주차주차 해설글
+## 1주차 해설글
 <details>
 <summary>PGS</summary>
 
@@ -27,7 +27,7 @@
 
 </details>
 
-## 2주차주차 해설글
+## 2주차 해설글
 <details>
 <summary>BOJ</summary>
 
